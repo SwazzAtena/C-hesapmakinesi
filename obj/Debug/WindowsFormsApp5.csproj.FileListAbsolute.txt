@@ -1,0 +1,9 @@
+C:\Users\bayram family\source\repos\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+C:\Users\bayram family\source\repos\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+C:\Users\bayram family\source\repos\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+C:\Users\bayram family\source\repos\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form1.resources
+C:\Users\bayram family\source\repos\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+C:\Users\bayram family\source\repos\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.cache
+C:\Users\bayram family\source\repos\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+C:\Users\bayram family\source\repos\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+C:\Users\bayram family\source\repos\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
